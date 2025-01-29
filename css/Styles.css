@@ -1,0 +1,91 @@
+html{
+    font-family: Helvetica;
+    background-color: rgb(179, 174, 159);
+}
+
+.container{
+    max-width: 1100px;
+    background-color: white;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px ;
+}
+.bold{
+    font-weight: bold;
+}
+
+/* Header */
+.header{
+    text-align: center;
+}
+
+.main-title{
+    font-size: 40px;
+}
+
+.main-paragraph{
+    font-style: italic;
+}
+
+/* Imagem destaque */
+.feature-image{
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Biografia */
+.biography-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed rgb(78, 74, 65);
+    border-bottom: 1px dashed rgb(0, 0, 0);
+    background-color: rgb(184, 182, 177);
+}
+/* Container de citação */
+
+.quotes-containers blockquote{
+    padding: 25px 0;
+    margin: 25px 0;
+    /* border-top: 1px dashed rgb(78, 74, 65); */
+    border-bottom: 1px dashed rgb(0, 0, 0);
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Curiosidades de supernatural */
+.curiosities-container{
+    padding: 25px 0;
+    /* margin: 25px 0; */
+    border-bottom: 1px dashed rgb(0, 0, 0);
+    background-color: rgb(184, 182, 177);
+}
+
+ul li{
+    padding: 10px 0;
+    margin: 10px 0;
+}
+
+/* Segunda citação */
+
+.quotes-container blockquote{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+}
+
+/* Segunda imagem - */
+
+.img-bold{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+.moreinfo-container {
+    text-align: center;
+}
